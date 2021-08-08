@@ -41,4 +41,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+   
+   <a href="https://www.linkedin.com/in/fernando-albuquerque-65a980193/">
+  <img align="left" alt="Fernando's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 -->
