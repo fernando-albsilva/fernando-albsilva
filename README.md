@@ -17,9 +17,13 @@
    <img align="center" alt="Fernando-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fernando-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Fernando-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" alt="Fernando-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 <!--
 **fernando-albsilva/fernando-albsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg
+https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg
 https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg
 Here are some ideas to get you started:
