@@ -19,7 +19,12 @@
   <img align="center" alt="Fernando-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Fernando-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
     <img align="center" alt="Fernando-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-</div>
+</div><br>  <br>
+  <div>
+    <a href="mailto:fernando.albsilva@gmail.com">
+      <img align="left" alt="Fernando's Gmail" height="25px" src="https://img.shields.io/badge/-fernando.albsilva@gmail.com-263238?style=flat-     square&labelColor=263238&logo=gmail&logoColor=white&link=mailto:fernando.albsilva@gmail.com" />
+    </a>
+ <div>
 <!--
 **fernando-albsilva/fernando-albsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg
