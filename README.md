@@ -25,7 +25,6 @@
       <img align="left" alt="Fernando's Gmail" height="25px" src="https://img.shields.io/badge/-fernando.albsilva@gmail.com-263238?style=flat-     square&labelColor=263238&logo=gmail&logoColor=white&link=mailto:fernando.albsilva@gmail.com" />
     </a>
  <div>
-   - 🔭 I’m currently working on ...
      <div>
       <a href="https://agilitysoftware.com.br/">
         <img align="left" alt="Fernando's Gmail" height="25px" src="https://img.shields.io/static/v1?label=Web%20Site&message=Link&color=blue" />
