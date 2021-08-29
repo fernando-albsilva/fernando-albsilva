@@ -26,7 +26,7 @@
     </a>
  <div>
      <div>
-      <a href="https://agilitysoftware.com.br/">
+      <a href="https://agilitysoftware.com.br/" target="_blank">
         <img align="left" alt="Fernando's Gmail" height="25px" src="https://img.shields.io/static/v1?label=Web%20Site&message=Link&color=blue" />
       </a>
  <div>
