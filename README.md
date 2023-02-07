@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true) -->
   <a href="https://github.com/fernando-albsilva">
 <!--   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fernando-albsilva&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-albsilva&layout=compact&langs_count=12&theme=gotham"/> -->
