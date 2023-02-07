@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando-albsilva&theme=dark&show_icons=true)
+  ![Fernando's GitHub stats]([https://github-readme-stats.vercel.app/api?username=fernando-albsilva&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=fernando-albsilva&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
 <!--     ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando-albsilva&count_private=true) -->
 <div>
 
