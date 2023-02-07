@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
+    ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando-albsilva&count_private=true)
 <div>
 
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true) -->
