@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm Fernando Albuquerque Silva, a passionate Full Stack Developer with a strong background in **web development**, specializing in **C#**, **.NET**, **Angular**, **SQL Server**, **PostgreSQL**, and other modern technologies. I strive to create scalable, high-performance applications that solve real-world problems.
 
+---
+
 ### Technologies & Tools
 
 <div style="display: inline_block"><br>
